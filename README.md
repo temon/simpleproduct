@@ -1,8 +1,13 @@
-# Simple Project
-TODO: Write a project description
+# SimpleProduct
+Just simple restapi product management with category build with liftweb. Using mongodb.
+
+## Demo
+http://kejogja.com:9090/v1/rest/api/category/detail
 
 ## Installation
-TODO: Describe the installation process
+1. use sbt for compile and try to run this project
+3. build war file with "sbt packages"
+2. just use jetty runner for simply deploy
 
 ## Usage
 TODO: Write usage instructions
