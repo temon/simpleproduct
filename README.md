@@ -9,6 +9,9 @@ http://kejogja.com:9090/v1/rest/api/category/detail
 3. build war file with "sbt packages"
 2. just use jetty runner for simply deploy
 
+## How to Run
+`sbt run`
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
