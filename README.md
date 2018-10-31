@@ -23,7 +23,6 @@ http://kejogja.com:9090/v1/rest/api/category/detail
 TODO: Write history
 
 ## Credits
-TODO: Write credits
 
 ## License
-TODO: Write license
+MIT. See License
