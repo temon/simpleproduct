@@ -1,5 +1,5 @@
 # SimpleProduct
-Just simple restapi product management with category build with liftweb. Using mongodb.
+Just simple restapi product management with category build with LiftWeb. Using mongodb.
 
 ## Demo
 http://kejogja.com:9090/v1/rest/api/category/detail
